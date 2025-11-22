@@ -2,10 +2,13 @@
 
 Website portofolio pribadi saya sebagai **Full Stack Developer**, dirancang dengan estetika **dark theme** yang modern dan minimalis. Dibangun hanya dengan **HTML** dan **CSS murni**, website ini menampilkan identitas profesional, keterampilan teknis, dan layanan pengembangan web yang saya tawarkan — ringan, cepat, dan responsif di semua perangkat.
 
+Link Preview web:
+https://egisatria.netlify.app/
+
 Desain asli diambil dari:  
 https://www.figma.com/design/ajW0k40QZx5Yxwy2tal7Ax/Personal-Portofolio-Web-Design--FREE---Community-?node-id=1-5&t=O36WTOnc14bSyrsf-1
 
-Link Preview web:
+
 
 ---
 
